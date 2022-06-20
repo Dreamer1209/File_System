@@ -16,5 +16,6 @@ Support:
 13.	System parameters are easy to change in source code
 14.	Use Object-Oriented Programming style and modular design
 15.	User friendly variable name
+16.	SCUT student friendly :)
 
 Run main.cpp file to lanuch the file system! 
