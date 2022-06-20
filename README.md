@@ -1,5 +1,5 @@
 # GreatOS
-Simple implementation of OS
+Simple implementation the file system
 Support:
 1.	Create and delete a file by command createFile, deleteFile
 2.	Create, delete directory, and change directory path by command createDir, deleteDir, changeDir
@@ -17,3 +17,4 @@ Support:
 14.	Use Object-Oriented Programming style and modular design
 15.	User friendly variable name
 
+Run main.cpp file to lanuch the file system! 
